@@ -1,3 +1,5 @@
+package chapter01;
+
 public class Test {
     public static void main(String[] args) {
         int bottlesNum = 10;

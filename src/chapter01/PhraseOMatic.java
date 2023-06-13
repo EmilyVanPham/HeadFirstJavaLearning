@@ -1,3 +1,5 @@
+package chapter01;
+
 import java.util.Random;
 
 public class PhraseOMatic {
@@ -19,4 +21,6 @@ public class PhraseOMatic {
 
         System.out.println("What we need is a " + phrase);
     }
+
+
 }
